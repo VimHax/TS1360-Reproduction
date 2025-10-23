@@ -1,0 +1,17 @@
+{
+	"name": "@test/project-state",
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"typecheck": "tsc --build tsconfig.spec.json --emitDeclarationOnly"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "5.9.3"
+	},
+	"dependencies": {
+		"prosemirror-state": "1.4.3"
+	}
+}
